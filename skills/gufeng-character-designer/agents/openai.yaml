@@ -1,0 +1,4 @@
+interface:
+  display_name: "东亚美型角色设计师"
+  short_description: "将模糊人设转为好看的五官、发型与穿搭设计，交付完整可复制的绘图提示词"
+  default_prompt: "使用 $gufeng-character-designer，按我给出的气质和身份设计好看的角色，最终交付详细外观提示词。"
